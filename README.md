@@ -9,10 +9,15 @@ __This is the second line of this branch's file.__
 <<<<<<< HEAD
 _This is the **third** of this branch's file _
 
-Format: ![Alt Text](https://d3pz1jifuab5zg.cloudfront.net/2016/08/16153058/hamster-health-center-2.jpg)
-=======
+![Alt Text](https://d3pz1jifuab5zg.cloudfront.net/2016/08/16153058/hamster-health-center-2.jpg)
+
 _This is the **third** line of this code _
+[Suharmo](https://github.com/suharmo)
 
-![GitHUb Logo ](/images/logo.png)
+As Kanye West said:
 
+> We're living the future so
+> the present is our past.
 
+I think you should use an
+`<addr>` element here instead.
