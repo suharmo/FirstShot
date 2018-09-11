@@ -9,6 +9,7 @@ __This is the second line of this branch's file.__
 
 _This is the **third** of this branch's file _
 
+<<<<<<< HEAD
 Best advice in the world:
 >Team work makes the dream worth.
 
@@ -24,5 +25,17 @@ Best advice in the world:
 
 
 
+=======
+![Alt Text](https://d3pz1jifuab5zg.cloudfront.net/2016/08/16153058/hamster-health-center-2.jpg)
 
+_This is the **third** line of this code _
+[Suharmo](https://github.com/suharmo)
 
+As Kanye West said:
+>>>>>>> d01ad4a7bd15da0f7acc0300673d547e6f316f9d
+
+> We're living the future so
+> the present is our past.
+
+I think you should use an
+`<addr>` element here instead.
